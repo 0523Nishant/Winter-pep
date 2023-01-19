@@ -1,0 +1,16 @@
+#demo{
+  background-color: rgb(168, 255, 251);
+  font-size: x-large;
+  margin-left: 20%;
+  cursor:grab;
+}
+#zero{
+  font-size: x-large;
+}
+#f{
+  background-color:azure;
+}
+#ze{
+  font-size:xx-large;
+  color: red;
+}
